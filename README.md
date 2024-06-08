@@ -1,4 +1,4 @@
-## Hi there 👋
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://cdn.discordapp.com/attachments/641002647385800724/1248881136634171402/gnominifnite.gif?ex=666546b2&is=6663f532&hm=27d09fc32bff5e076235517af64dc785447ddb1d6a657af25329aa94118d3bde&.gif?raw=true');]{x0000}$} 
 
 <!--
 **CrustyCracker/CrustyCracker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
